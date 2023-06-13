@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vllrich/motion-hover-effects.git"
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/Vllrich/motion-hover-effects#readme",
   "dependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "three": "^0.127.0",
+    "three-orbit-controls": "^82.1.0"
   }
 }
