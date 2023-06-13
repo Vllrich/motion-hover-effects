@@ -1,8 +1,7 @@
 {
   "name": "motion-hover-effects",
   "version": "1.0.0",
-  "description": "Demos for the tutorial \"How to Create Motion Hover Effects with Image Distortions using Three.js\" by Niccolò Miranda and Clément Roche.",
-  "main": "index.js",
+  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
